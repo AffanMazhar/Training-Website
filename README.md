@@ -1,3 +1,7 @@
+## Live Demo 
+
+[view website] (https://editting-dazzling-movie-760.vscodeedu.app/#about-section)
+
 # Fitness Training Website
 
 For my brand, I was able to create a  responsive fitness training website built using HTML, CSS, and JavaScript. This project was designed to create a modern and interactive user experience while strengthening frontend web development skills.
